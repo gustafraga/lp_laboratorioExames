@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="640" viewBox="0 0 1920 640">
+<rect width="1920" height="640" fill="#FCE8F0"/>
+<circle cx="1500" cy="320" r="230" fill="none" stroke="#C2185B" stroke-width="28" opacity=".18"/>
+<circle cx="1500" cy="320" r="140" fill="#C2185B" opacity=".12"/>
+<rect x="360" y="92" width="260" height="44" rx="6" fill="#0A2E57" opacity=".9"/><text x="490" y="121" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">BANNER DE EXEMPLO</text>
+<text x="360" y="196" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#C2185B" text-anchor="start">OUTUBRO ROSA</text>
+<text x="360" y="284" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#5B0E2D" text-anchor="start">Cuidar de você</text>
+<text x="360" y="366" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#5B0E2D" text-anchor="start">também é prevenção.</text>
+<text x="360" y="432" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#3A4A5C" text-anchor="start">Tire suas dúvidas sobre exames com a nossa equipe pelo WhatsApp.</text>
+<rect x="360" y="472" width="420" height="72" rx="10" fill="#C2185B"/>
+<text x="570" y="517" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="middle">Fale com a equipe</text>
+</svg>

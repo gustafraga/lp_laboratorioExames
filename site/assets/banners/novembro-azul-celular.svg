@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#E6F0FA"/>
+<circle cx="880" cy="860" r="300" fill="none" stroke="#0A5BA8" stroke-width="34" opacity=".16"/>
+<rect x="90" y="90" width="260" height="44" rx="6" fill="#0A2E57" opacity=".9"/><text x="220" y="119" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">BANNER DE EXEMPLO</text>
+<text x="90" y="240" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#0A5BA8" text-anchor="start">NOVEMBRO AZUL</text>
+<text x="90" y="350" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#0A2E57" text-anchor="start">Saúde do homem:</text>
+<text x="90" y="436" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#0A2E57" text-anchor="start">faça seus exames</text>
+<text x="90" y="522" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#0A2E57" text-anchor="start">em dia.</text>
+<text x="90" y="648" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#3A4A5C" text-anchor="start">PSA total e exames de rotina. Veja</text>
+<text x="90" y="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#3A4A5C" text-anchor="start">o preparo e agende pelo WhatsApp.</text>
+<rect x="90" y="768" width="520" height="104" rx="14" fill="#0A5BA8"/>
+<text x="350" y="833" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#FFFFFF" text-anchor="middle">Fale com a equipe</text>
+</svg>

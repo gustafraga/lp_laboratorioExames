@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#EEF3F8"/>
+<rect x="24" y="24" width="1152" height="852" fill="none" stroke="#9FB4CA" stroke-width="4" stroke-dasharray="18 14"/>
+<g transform="translate(540 330)" fill="none" stroke="#5B7A99" stroke-width="8" stroke-linejoin="round"><rect x="0" y="24" width="120" height="84" rx="12"/><path d="M36 24l12-20h24l12 20"/><circle cx="60" cy="66" r="24"/></g>
+<text x="600" y="520" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#2C4A6B" text-anchor="middle">Foto da sala de coleta</text>
+<text x="600" y="580" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="30" fill="#5B7A99" text-anchor="middle">Substitua por uma foto real (1200 × 900 px)</text>
+</svg>

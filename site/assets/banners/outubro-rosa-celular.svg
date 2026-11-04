@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#FCE8F0"/>
+<circle cx="880" cy="860" r="300" fill="none" stroke="#C2185B" stroke-width="34" opacity=".16"/>
+<rect x="90" y="90" width="260" height="44" rx="6" fill="#0A2E57" opacity=".9"/><text x="220" y="119" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">BANNER DE EXEMPLO</text>
+<text x="90" y="240" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#C2185B" text-anchor="start">OUTUBRO ROSA</text>
+<text x="90" y="350" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#5B0E2D" text-anchor="start">Cuidar de você</text>
+<text x="90" y="436" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#5B0E2D" text-anchor="start">também é</text>
+<text x="90" y="522" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#5B0E2D" text-anchor="start">prevenção.</text>
+<text x="90" y="648" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#3A4A5C" text-anchor="start">Tire suas dúvidas sobre exames com</text>
+<text x="90" y="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#3A4A5C" text-anchor="start">a nossa equipe pelo WhatsApp.</text>
+<rect x="90" y="768" width="520" height="104" rx="14" fill="#C2185B"/>
+<text x="350" y="833" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#FFFFFF" text-anchor="middle">Fale com a equipe</text>
+</svg>

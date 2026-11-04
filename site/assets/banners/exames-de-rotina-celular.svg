@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#0A5BA8"/>
+<circle cx="880" cy="860" r="300" fill="none" stroke="#FFFFFF" stroke-width="34" opacity=".16"/>
+<rect x="90" y="90" width="260" height="44" rx="6" fill="#FFFFFF" opacity=".9"/><text x="220" y="119" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#0A2E57" text-anchor="middle">BANNER DE EXEMPLO</text>
+<text x="90" y="240" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="start">EXAMES DE ROTINA</text>
+<text x="90" y="350" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" text-anchor="start">Saiba o preparo</text>
+<text x="90" y="436" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" text-anchor="start">antes de sair</text>
+<text x="90" y="522" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" text-anchor="start">de casa.</text>
+<text x="90" y="648" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#E6F0FA" text-anchor="start">Jejum, preparo e prazo do pela</text>
+<text x="90" y="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="400" fill="#E6F0FA" text-anchor="start">resultado explicados nossa equipe.</text>
+<rect x="90" y="768" width="520" height="104" rx="14" fill="#FFFFFF"/>
+<text x="350" y="833" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#0A5BA8" text-anchor="middle">Fale com a equipe</text>
+</svg>

@@ -1,0 +1,15 @@
+# Local backups of earlier versions (kept on this computer only)
+backup/
+
+# Impeccable skill: installation and working files (critiques, sketches, captures)
+.agents/
+.impeccable/
+skills-lock.json
+
+# System and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+.vscode/
+node_modules/
