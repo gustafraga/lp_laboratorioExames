@@ -8,7 +8,7 @@ web
 
 ## Stack
 
-Delegated, now decided: static HTML/CSS with a little vanilla JS, no framework, in `site/` (`index.html`, `assets/css/styles.css`, `assets/js/main.js`, self-hosted fonts and images). It is a one-page site whose only conversion is a WhatsApp link, and static files are the easiest for a small client to host. The old exported bundle is kept only as a backup of the previous version, in `backup/Laboratorio Exames - Site.html`. Revisit if the client asks for a CMS or online results.
+Delegated, now decided: static HTML/CSS with a little vanilla JS, no framework, at the repository root (`index.html`, `assets/css/styles.css`, `assets/js/main.js`, self-hosted fonts and images). It is a one-page site whose only conversion is a WhatsApp link, and static files are the easiest for a small client to host. The old exported bundle is kept only as a backup of the previous version, in `backup/Laboratorio Exames - Site.html`. Revisit if the client asks for a CMS or online results.
 
 ## Users
 

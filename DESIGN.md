@@ -255,7 +255,7 @@ Cantos discretos: 6px em botões e opções, 8px em cards, fotos e mapa, 3px na 
 Branco, borda 1px, cantos 8px, padding de 22px, sem sombra: atalhos, passos, depoimentos, card de preparo, responsável técnica.
 
 ### Preparo de exames com velocímetro de jejum
-- **Dados:** todos em `site/assets/js/exames.js` (nome, jejum em horas, observação, preparo, resultado). Os botões são gerados a partir dessa lista.
+- **Dados:** todos em `assets/js/exames.js` (nome, jejum em horas, observação, preparo, resultado). Os botões são gerados a partir dessa lista.
 - **Exames:** grade de 2 colunas de botões simples (borda cinza, azul cheio quando selecionado), grupo de rádio com uma parada de Tab e setas.
 - **Card:** branco, borda 1px cinza-clara, cantos de 8px.
 - **Velocímetro:** meio arco de 0 a 12h, traço de 6px; trilho em line (#DCE3EB), preenchimento em azul marca; marcas finas em 0h, 4h, 8h e 12h com rótulos de 11px; ponteiro azul-marinho de 2,5px com eixo circular. Movimento de 0,6s em cubic-bezier(.22,.61,.36,1), sem passar do ponto; instantâneo com movimento reduzido.
